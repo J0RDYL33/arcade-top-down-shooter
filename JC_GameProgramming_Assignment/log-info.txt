@@ -1,0 +1,1064 @@
+All SDL_Rects initialized successfully
+
+Loaded fire2.png
+
+Loaded texture from SDL Surface for fire2.png
+
+Loaded SDL_Mixer Library
+
+Bullet constructed with Param(1eea58)
+
+Bullet constructed with Param(1eea58)
+
+Bullet constructed with Param(1eea58)
+
+Bullet constructed with Param(1eea58)
+
+Bullet constructed with Param(1eea58)
+
+Bullet constructed with Param(1eea58)
+
+Bullet constructed with Param(1eea58)
+
+Bullet constructed with Param(1eea58)
+
+Bullet constructed with Param(1eea58)
+
+Bullet constructed with Param(1eea58)
+
+Loaded SDL_Mixer Library
+
+Enemy constructed with Param(1eea48)
+
+Enemy constructed with Param(1eea48)
+
+Enemy constructed with Param(1eea48)
+
+Enemy constructed with Param(1eea48)
+
+Enemy constructed with Param(1eea48)
+
+Enemy constructed with Param(1eea48)
+
+Enemy constructed with Param(1eea48)
+
+Enemy constructed with Param(1eea48)
+
+Enemy constructed with Param(1eea48)
+
+Enemy constructed with Param(1eea48)
+
+Loaded SDL_Mixer Library
+
+All music/sounds loaded
+
+Music volume is now 128
+
+Music volume is now 128
+
+Sound volume is now 96
+
+Sound volume is now 64
+
+Sound volume is now 96
+
+Music volume is now 96
+
+Moving to main screen
+
+Timer: 60
+
+Enemy spawned in
+
+Enemy spawned out
+
+Enemy spawned out
+
+Enemy spawned out
+
+Enemy spawned out
+
+Enemy spawned out
+
+Enemy spawned out
+
+Enemy spawned out
+
+Enemy spawned out
+
+Enemy spawned out
+
+Enemy spawned out
+
+W has been pressed
+
+A has been pressed
+
+Timer: 59
+
+W has been unpressed
+
+S has been pressed
+
+A has been unpressed
+
+D has been pressed
+
+S has been unpressed
+
+Timer: 58
+
+W has been pressed
+
+Enemy spawned in
+
+D has been unpressed
+
+A has been pressed
+
+W has been unpressed
+
+Timer: 57
+
+A has been unpressed
+
+Up arrow has been pressed
+
+S has been pressed
+
+S has been unpressed
+
+S has been pressed
+
+A bullet has collided with an enemy
+
+Timer: 56
+
+Up arrow has been pressed
+
+S has been unpressed
+
+W has been pressed
+
+W has been unpressed
+
+Up arrow has been pressed
+
+A bullet has collided with an enemy
+
+Timer: 55
+
+Enemy spawned in
+
+A bullet has collided with an enemy
+
+Up arrow has been pressed
+
+Music volume is now 96
+
+A bullet has collided with an enemy
+
+Score: 100
+
+Spawned movespeed potion
+
+Enemy spawned out
+
+Timer: 54
+
+Music volume is now 96
+
+W has been pressed
+
+Right arrow has been pressed
+
+Timer: 53
+
+W has been unpressed
+
+A has been pressed
+
+A has been unpressed
+
+Right arrow has been pressed
+
+Enemy spawned in
+
+D has been pressed
+
+Timer: 52
+
+Right arrow has been pressed
+
+D has been unpressed
+
+A bullet has collided with an enemy
+
+Music volume is now 96
+
+A bullet has collided with an enemy
+
+Timer: 51
+
+W has been pressed
+
+A bullet has collided with an enemy
+
+Up arrow has been pressed
+
+W has been unpressed
+
+A bullet has collided with an enemy
+
+Up arrow has been pressed
+
+S has been pressed
+
+Timer: 50
+
+A bullet has collided with an enemy
+
+Enemy spawned in
+
+S has been unpressed
+
+Up arrow has been pressed
+
+A bullet has collided with an enemy
+
+Up arrow has been pressed
+
+Timer: 49
+
+A bullet has collided with an enemy
+
+Score: 200
+
+Spawned shotspeed potion
+
+Enemy spawned out
+
+A has been pressed
+
+A has been unpressed
+
+Right arrow has been pressed
+
+W has been pressed
+
+D has been pressed
+
+A bullet has collided with an enemy
+
+Score: 300
+
+Spawned shotspeed potion
+
+Enemy spawned out
+
+A has been pressed
+
+Timer: 48
+
+Right arrow has been pressed
+
+Player has collided with a shotspeed potion
+
+Score: 350
+
+D has been unpressed
+
+Player has collided with a movespeed potion
+
+Score: 400
+
+D has been pressed
+
+A has been unpressed
+
+W has been unpressed
+
+Enemy spawned in
+
+S has been pressed
+
+Right arrow has been pressed
+
+Timer: 47
+
+S has been unpressed
+
+A bullet has collided with an enemy
+
+S has been pressed
+
+Right arrow has been pressed
+
+Player has collided with a shotspeed potion
+
+Score: 450
+
+S has been unpressed
+
+D has been unpressed
+
+Timer: 46
+
+A has been pressed
+
+A bullet has collided with an enemy
+
+Right arrow has been pressed
+
+A has been unpressed
+
+A bullet has collided with an enemy
+
+Right arrow has been pressed
+
+S has been pressed
+
+Timer: 45
+
+Enemy spawned in
+
+A bullet has collided with an enemy
+
+Score: 550
+
+Spawned movespeed potion
+
+Enemy spawned out
+
+S has been unpressed
+
+Up arrow has been pressed
+
+A bullet has collided with an enemy
+
+Timer: 44
+
+D has been pressed
+
+Up arrow has been pressed
+
+D has been unpressed
+
+S has been pressed
+
+A bullet has collided with an enemy
+
+S has been unpressed
+
+Movespeed is now -858993459. Potions remaining: 1075104972
+
+R has been pressed
+
+S has been pressed
+
+Timer: 43
+
+S has been unpressed
+
+Shot speed is now: 0. Potions remaining: 1076690944
+
+F has been pressed
+
+Enemy spawned in
+
+S has been pressed
+
+S has been unpressed
+
+Timer: 42
+
+Shot speed is now: 0. Potions remaining: 1076625408
+
+F has been pressed
+
+S has been pressed
+
+S has been unpressed
+
+Up arrow has been pressed
+
+Timer: 41
+
+S has been pressed
+
+A bullet has collided with an enemy
+
+S has been unpressed
+
+Up arrow has been pressed
+
+A bullet has collided with an enemy
+
+Score: 650
+
+Spawned health potion
+
+Enemy spawned out
+
+S has been pressed
+
+A has been pressed
+
+S has been unpressed
+
+A has been unpressed
+
+Up arrow has been pressed
+
+Timer: 40
+
+Enemy spawned in
+
+W has been pressed
+
+Player has collided with a health potion
+
+Score: 700
+
+D has been pressed
+
+Timer: 39
+
+Down arrow has been pressed
+
+W has been unpressed
+
+D has been unpressed
+
+A bullet has collided with an enemy
+
+Player has collided with a movespeed potion
+
+Score: 750
+
+Down arrow has been pressed
+
+Timer: 38
+
+W has been pressed
+
+A bullet has collided with an enemy
+
+W has been unpressed
+
+W has been pressed
+
+Down arrow has been pressed
+
+Enemy spawned in
+
+A has been pressed
+
+Timer: 37
+
+A has been unpressed
+
+A bullet has collided with an enemy
+
+Down arrow has been pressed
+
+A bullet has collided with an enemy
+
+Score: 850
+
+Spawned movespeed potion
+
+Enemy spawned out
+
+Timer: 36
+
+A has been pressed
+
+W has been unpressed
+
+S has been pressed
+
+A has been unpressed
+
+Timer: 35
+
+Enemy spawned in
+
+Right arrow has been pressed
+
+A bullet has collided with an enemy
+
+Timer: 34
+
+Right arrow has been pressed
+
+A bullet has collided with an enemy
+
+D has been pressed
+
+Player has collided with a movespeed potion
+
+Score: 900
+
+Up arrow has been pressed
+
+D has been unpressed
+
+A bullet has collided with an enemy
+
+Timer: 33
+
+S has been unpressed
+
+S has been pressed
+
+Up arrow has been pressed
+
+S has been unpressed
+
+A bullet has collided with an enemy
+
+Score: 1000
+
+Spawned movespeed potion
+
+Enemy spawned out
+
+D has been pressed
+
+Enemy spawned in
+
+Timer: 32
+
+D has been unpressed
+
+W has been pressed
+
+A has been pressed
+
+Player has collided with a movespeed potion
+
+Score: 1050
+
+A has been unpressed
+
+W has been unpressed
+
+Timer: 31
+
+Health is now 105. Potions remaining: 0
+
+E has been pressed
+
+F has been pressed
+
+Player has collided with an enemy
+
+New player health: 80
+
+Player has collided with an enemy
+
+D has been pressed
+
+Player has collided with an enemy
+
+Player has collided with an enemy
+
+Timer: 30
+
+Enemy spawned in
+
+S has been pressed
+
+D has been unpressed
+
+S has been unpressed
+
+Movespeed is now -1717986918. Potions remaining: 1075157401
+
+R has been pressed
+
+Timer: 29
+
+Movespeed is now 1717986919. Potions remaining: 1075209830
+
+R has been pressed
+
+Movespeed is now 858993460. Potions remaining: 1075262259
+
+R has been pressed
+
+D has been pressed
+
+Timer: 28
+
+Left arrow has been pressed
+
+S has been pressed
+
+A bullet has collided with an enemy
+
+Left arrow has been pressed
+
+A bullet has collided with an enemy
+
+D has been unpressed
+
+Enemy spawned in
+
+Timer: 27
+
+A has been pressed
+
+A has been unpressed
+
+A has been pressed
+
+Up arrow has been pressed
+
+A has been unpressed
+
+Timer: 26
+
+Up arrow has been pressed
+
+S has been unpressed
+
+S has been pressed
+
+A bullet has collided with an enemy
+
+S has been unpressed
+
+Up arrow has been pressed
+
+Timer: 25
+
+S has been pressed
+
+A bullet has collided with an enemy
+
+S has been unpressed
+
+Up arrow has been pressed
+
+S has been pressed
+
+D has been pressed
+
+Enemy spawned in
+
+A bullet has collided with an enemy
+
+Score: 1150
+
+Spawned shotspeed potion
+
+Enemy spawned out
+
+S has been unpressed
+
+D has been unpressed
+
+S has been pressed
+
+D has been pressed
+
+Up arrow has been pressed
+
+S has been unpressed
+
+Timer: 24
+
+W has been pressed
+
+D has been unpressed
+
+W has been unpressed
+
+A bullet has collided with an enemy
+
+D has been pressed
+
+D has been unpressed
+
+Up arrow has been pressed
+
+D has been pressed
+
+D has been unpressed
+
+A bullet has collided with an enemy
+
+D has been pressed
+
+Timer: 23
+
+D has been unpressed
+
+Up arrow has been pressed
+
+D has been pressed
+
+A bullet has collided with an enemy
+
+Score: 1250
+
+Spawned movespeed potion
+
+Enemy spawned out
+
+D has been unpressed
+
+D has been pressed
+
+W has been pressed
+
+Left shift has been pressed
+
+D has been unpressed
+
+Timer: 22
+
+Enemy spawned in
+
+A has been pressed
+
+Player has collided with a movespeed potion
+
+Score: 1300
+
+Left shift has been unpressed
+
+Timer: 21
+
+A has been unpressed
+
+Down arrow has been pressed
+
+W has been unpressed
+
+A bullet has collided with an enemy
+
+W has been pressed
+
+Down arrow has been pressed
+
+W has been unpressed
+
+Timer: 20
+
+A bullet has collided with an enemy
+
+Down arrow has been pressed
+
+Enemy spawned in
+
+A bullet has collided with an enemy
+
+W has been pressed
+
+Down arrow has been pressed
+
+W has been unpressed
+
+Timer: 19
+
+A bullet has collided with an enemy
+
+Score: 1400
+
+Spawned health potion
+
+Enemy spawned out
+
+S has been pressed
+
+S has been unpressed
+
+Down arrow has been pressed
+
+A bullet has collided with an enemy
+
+Timer: 18
+
+W has been pressed
+
+Down arrow has been pressed
+
+W has been unpressed
+
+A bullet has collided with an enemy
+
+Down arrow has been pressed
+
+A has been pressed
+
+Timer: 17
+
+A bullet has collided with an enemy
+
+Enemy spawned in
+
+A has been unpressed
+
+Down arrow has been pressed
+
+D has been pressed
+
+W has been pressed
+
+D has been unpressed
+
+A bullet has collided with an enemy
+
+W has been unpressed
+
+Down arrow has been pressed
+
+W has been pressed
+
+Timer: 16
+
+A bullet has collided with an enemy
+
+W has been unpressed
+
+Down arrow has been pressed
+
+A bullet has collided with an enemy
+
+A has been pressed
+
+W has been pressed
+
+A has been unpressed
+
+Down arrow has been pressed
+
+W has been unpressed
+
+Timer: 15
+
+A bullet has collided with an enemy
+
+Score: 1500
+
+Spawned shotspeed potion
+
+Enemy spawned out
+
+W has been pressed
+
+A has been pressed
+
+Down arrow has been pressed
+
+W has been unpressed
+
+Enemy spawned in
+
+A bullet has collided with an enemy
+
+Score: 1600
+
+Spawned shotspeed potion
+
+Enemy spawned out
+
+S has been pressed
+
+Left shift has been pressed
+
+Timer: 14
+
+Player has collided with an enemy
+
+New player health: 60
+
+A has been unpressed
+
+D has been pressed
+
+D has been unpressed
+
+A has been pressed
+
+Timer: 13
+
+A has been unpressed
+
+D has been pressed
+
+D has been unpressed
+
+D has been pressed
+
+Timer: 12
+
+Enemy spawned in
+
+S has been unpressed
+
+W has been pressed
+
+Timer: 11
+
+Player has collided with a health potion
+
+Score: 1650
+
+Left shift has been unpressed
+
+D has been unpressed
+
+Health is now 65. Potions remaining: 0
+
+E has been pressed
+
+Timer: 10
+
+Left shift has been pressed
+
+A has been pressed
+
+Left shift has been unpressed
+
+Enemy spawned in
+
+W has been unpressed
+
+Down arrow has been pressed
+
+Timer: 9
+
+A bullet has collided with an enemy
+
+Down arrow has been pressed
+
+A has been unpressed
+
+D has been pressed
+
+A bullet has collided with an enemy
+
+W has been pressed
+
+Down arrow has been pressed
+
+W has been unpressed
+
+Timer: 8
+
+A bullet has collided with an enemy
+
+S has been pressed
+
+Left shift has been pressed
+
+Timer: 7
+
+D has been unpressed
+
+Enemy spawned in
+
+A has been pressed
+
+A has been unpressed
+
+Left arrow has been pressed
+
+Left shift has been unpressed
+
+Left shift has been pressed
+
+A has been pressed
+
+A bullet has collided with an enemy
+
+A has been unpressed
+
+Player has collided with an enemy
+
+New player health: 45
+
+Player has collided with an enemy
+
+Timer: 6
+
+Player has collided with an enemy
+
+Left shift has been unpressed
+
+A has been pressed
+
+A has been unpressed
+
+Up arrow has been pressed
+
+Player has collided with a shotspeed potion
+
+Score: 1700
+
+A bullet has collided with an enemy
+
+Timer: 5
+
+A has been pressed
+
+Movespeed is now 1. Potions remaining: 1075314688
+
+R has been pressed
+
+Enemy spawned in
+
+Shot speed is now: 0. Potions remaining: 1076559872
+
+F has been pressed
+
+S has been unpressed
+
+Timer: 4
+
+W has been pressed
+
+Left shift has been pressed
+
+Left shift has been unpressed
+
+Timer: 3
+
+Right arrow has been pressed
+
+W has been unpressed
+
+Right arrow has been pressed
+
+A bullet has collided with an enemy
+
+Timer: 2
+
+Enemy spawned in
+
+A has been unpressed
+
+D has been pressed
+
+Right arrow has been pressed
+
+A bullet has collided with an enemy
+
+Timer: 1
+
+D has been unpressed
+
+A bullet has collided with an enemy
+
+A has been pressed
+
+Timer: 0
+
+A has been unpressed
+
+Escape has been pressed, the game will now close
+

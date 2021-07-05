@@ -1,0 +1,26 @@
+﻿  JC_BulletList.cpp
+C:\Users\J0RDYL33\source\repos\JC_GameProgramming_Assignment\JC_GameProgramming_Assignment\JC_BulletList.cpp(81,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\J0RDYL33\source\repos\JC_GameProgramming_Assignment\JC_GameProgramming_Assignment\JC_BulletList.cpp(94,20): warning C4018: '<': signed/unsigned mismatch
+  JC_Enemy.cpp
+C:\Users\J0RDYL33\source\repos\JC_GameProgramming_Assignment\JC_GameProgramming_Assignment\JC_Enemy.cpp(88,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  JC_EnemyList.cpp
+C:\Users\J0RDYL33\source\repos\JC_GameProgramming_Assignment\JC_GameProgramming_Assignment\JC_EnemyList.cpp(38,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\J0RDYL33\source\repos\JC_GameProgramming_Assignment\JC_GameProgramming_Assignment\JC_EnemyList.cpp(45,20): warning C4018: '<': signed/unsigned mismatch
+  JC_Player.cpp
+C:\Users\J0RDYL33\source\repos\JC_GameProgramming_Assignment\JC_GameProgramming_Assignment\JC_Player.cpp(134,31): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\J0RDYL33\source\repos\JC_GameProgramming_Assignment\JC_GameProgramming_Assignment\JC_Player.cpp(136,31): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\J0RDYL33\source\repos\JC_GameProgramming_Assignment\JC_GameProgramming_Assignment\JC_Player.cpp(140,31): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\J0RDYL33\source\repos\JC_GameProgramming_Assignment\JC_GameProgramming_Assignment\JC_Player.cpp(145,31): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\J0RDYL33\source\repos\JC_GameProgramming_Assignment\JC_GameProgramming_Assignment\JC_Player.cpp(159,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\J0RDYL33\source\repos\JC_GameProgramming_Assignment\JC_GameProgramming_Assignment\JC_Player.cpp(236,52): warning C4244: '=': conversion from 'ValueType' to 'int', possible loss of data
+          with
+          [
+              ValueType=float
+          ]
+C:\Users\J0RDYL33\source\repos\JC_GameProgramming_Assignment\JC_GameProgramming_Assignment\JC_Player.cpp(237,52): warning C4244: '=': conversion from 'ValueType' to 'int', possible loss of data
+          with
+          [
+              ValueType=float
+          ]
+  Generating Code...
+  JC_GameProgramming_Assignment.vcxproj -> C:\Users\J0RDYL33\source\repos\JC_GameProgramming_Assignment\Debug\JC_GameProgramming_Assignment.exe

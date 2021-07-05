@@ -1,0 +1,54 @@
+All SDL_Rects initialized successfully
+
+Null pointer returned while loading content/fire2.png
+
+myTexture was null, that's bad!
+
+Loaded SDL_Mixer Library
+
+Bullet constructed with Param(19e778)
+
+Bullet constructed with Param(19e778)
+
+Bullet constructed with Param(19e778)
+
+Bullet constructed with Param(19e778)
+
+Bullet constructed with Param(19e778)
+
+Bullet constructed with Param(19e778)
+
+Bullet constructed with Param(19e778)
+
+Bullet constructed with Param(19e778)
+
+Bullet constructed with Param(19e778)
+
+Bullet constructed with Param(19e778)
+
+Loaded SDL_Mixer Library
+
+Enemy constructed with Param(19e768)
+
+Enemy constructed with Param(19e768)
+
+Enemy constructed with Param(19e768)
+
+Enemy constructed with Param(19e768)
+
+Enemy constructed with Param(19e768)
+
+Enemy constructed with Param(19e768)
+
+Enemy constructed with Param(19e768)
+
+Enemy constructed with Param(19e768)
+
+Enemy constructed with Param(19e768)
+
+Enemy constructed with Param(19e768)
+
+Loaded SDL_Mixer Library
+
+All music/sounds loaded
+
